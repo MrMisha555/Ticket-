@@ -1,0 +1,5 @@
+discord
+aiosqlite
+chat_exporter
+discord.py
+python-dotenv
